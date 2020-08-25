@@ -11,13 +11,15 @@ int main(int argc, char *argv[])
         return 0;
     }
 
-    std::string s = std::string(  );
+    std::string command = std::string( tolower(argv[0]) );
 
-    if (strcmp())
+    if (command == "help")
     {
+        
     }
 }
 
 void print_help()
 {
+    printf ("");
 }
