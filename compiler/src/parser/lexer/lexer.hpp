@@ -1,5 +1,5 @@
-#ifndef LEXER
-#define LEXER
+#ifndef LEXER_HPP
+#define LEXER_HPP
 
 class Lexer
 {
@@ -10,4 +10,4 @@ public:
     
 }
 
-#endif //LEXER
+#endif //LEXER_HPP

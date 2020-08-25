@@ -1,5 +1,5 @@
-#ifndef LEXER_TOKEN_TYPES
-#define LEXER_TOKEN_TYPES
+#ifndef LEXER_TOKEN_TYPES_HPP
+#define LEXER_TOKEN_TYPES_HPP
 
 enum LexerTokenTypes
 {
@@ -104,4 +104,4 @@ enum LexerTokenTypes
 
 }
 
-#endif //LEXER_TOKEN_TYPES
+#endif //LEXER_TOKEN_TYPES_HPP
