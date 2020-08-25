@@ -100,7 +100,7 @@ enum LexerTokenTypes
     Class = 160,                   // class
     New = 161,                     // new
     Container = 165,               // container
-    Test = 166
+    Test = 166                     // test
 
 }
 
