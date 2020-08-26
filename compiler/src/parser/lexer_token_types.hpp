@@ -96,6 +96,7 @@ enum LexerTokenTypes
                                    //
     Return = 150,                  // return
     Function = 151,                // function
+    LambdaGoesTo,                  // =>
                                    //
     Class = 160,                   // class
     New = 161,                     // new
